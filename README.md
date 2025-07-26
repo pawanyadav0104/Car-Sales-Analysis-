@@ -45,7 +45,9 @@ This is a car sales analysis project I worked on using Excel and Power BI. The g
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview]("C:\Users\pawan\OneDrive\Pictures\Screenshots\Screenshot 2025-07-26 131906.png")
+
+![Dashboard Preview](https://github.com/pawanyadav0104/Car-Sales-Analysis-/blob/main/Screenshot%202025-07-26%20131906.png?raw=true)
+
 
 ---
 
